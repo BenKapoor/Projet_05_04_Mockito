@@ -1,4 +1,4 @@
 Scénario créer une nouvelle réservation: On veut tester la création d’une réservation. 
-  La création est réussi si la réponse du système est vraie ou fausse.
+  La création est réussi si la réponse du système est vraie.
 Scénario trouver une réservation grâce à son identifiant: On veut tester la recherche d’une réservation par son identifiant. 
-  La recherche est réussie si la réponse du système contient les informations de la réservation.
+  La recherche est réussie si la réponse du système contient l’ensemble des informations de la réservation.
